@@ -2,6 +2,8 @@
 
 **Live Demo:** https://shashi-expense-tracker.netlify.app
 
+> **Built with AI assistance as a starter project.** I generated the first version with an AI tool and am studying the code to understand it and extend it myself.
+
 A simple expense tracker built with **React**. Add your daily expenses, filter them by category, see the running total, and delete entries. Data is saved in the browser (`localStorage`), so it stays after a refresh.
 
 ## Features
@@ -42,7 +44,7 @@ npm run dev
 
 Open the URL shown in the terminal (usually http://localhost:5173).
 
-## What I Learned
+## What I'm Learning
 
 - Splitting UI into components and passing data with props
 - Lifting state up (`App` owns the expenses, children call functions passed down)
