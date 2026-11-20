@@ -1,5 +1,7 @@
 # Expense Tracker
 
+**Live Demo:** https://shashi-expense-tracker.netlify.app
+
 A simple expense tracker built with **React**. Add your daily expenses, filter them by category, see the running total, and delete entries. Data is saved in the browser (`localStorage`), so it stays after a refresh.
 
 ## Features
